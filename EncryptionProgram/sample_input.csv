@@ -1,0 +1,10 @@
+id,event,category,ab_test_value,reason,url,email,atila_stage,timestamp
+wce2qoxhc2gs37o4,processed,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'plaintext']",plaintext,,,mary@hotmail.com,prod,1576177699
+s971dhdjgutqus9v,processed,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'plaintext']",plaintext,,,sally@gmail.com,prod,1576592157
+0ectg9x9dewxgjqn,delivered,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'plaintext']",plaintext,,,alice@hotmail.com,prod,1576177701
+wh6a6lft6awgbtsy,processed,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'plaintext']",plaintext,,,bob@uwo.ca,prod,1576177471
+yzhhzgm4b9apqt4j,open,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'plaintext']",plaintext,,,sally@hotmail.com,prod,1576186031
+dxdpa4dqmelumf5q,delivered,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'plaintext']",plaintext,,,john@gmail.com,prod,1576178876
+6tltisait5qnvy4k,delivered,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'plaintext']",plaintext,,,sally@hotmail.com,prod,1576177473
+ii4thu22ocub5bqq,open,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'html']",html,,,mary@uwo.ca,prod,1576605758
+bxsbqaqrlmcgmauh,processed,"[u'prod', u'scholarship_digest', u'ab_test', u'html_vs_plaintext', u'html']",html,,,mary@hotmail.com,prod,1576592153
