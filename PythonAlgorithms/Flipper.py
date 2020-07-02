@@ -24,6 +24,12 @@ while True:
             for number in grid:
                 number.reverse()
 
+        elif i == "D":
+            grid.reverse()
+            for number in grid:
+                number.reverse()
+
+
         continue
 
     else:
