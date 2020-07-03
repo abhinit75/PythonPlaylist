@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70da2e63-bd0a-4f72-a0d5-ffd8e4461f55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SimplePython/Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimplePython/listsindepth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAlgorithms/GCD.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonAlgorithms/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAlgorithms/Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimplePython/Listsindepth.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SimplePython/Listsindepth.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +14,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="7cd0eab9-4739-4a64-a443-6d5c5061eb65" />
   <component name="ProjectId" id="1e0HsC5D6J2Kl3BzXTRRf0bdkvr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +42,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listsindepth">
+  <component name="RunManager" selected="Python.randomModule">
     <configuration name="Decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPlaylist" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,26 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPlaylist" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAlgorithms/Factorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPlaylist" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,29 +78,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAlgorithms/Fibonacci.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Flipper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPlaylist" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAlgorithms/Flipper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonAlgorithms/GCD.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,13 +109,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="randomModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPlaylist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SimplePython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimplePython/randomModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="randommodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPlaylist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SimplePython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimplePython/random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.randomModule" />
+        <item itemvalue="Python.randommodule" />
+        <item itemvalue="Python.GCD" />
         <item itemvalue="Python.listsindepth" />
         <item itemvalue="Python.Decorators" />
-        <item itemvalue="Python.Fibonacci" />
-        <item itemvalue="Python.Flipper" />
-        <item itemvalue="Python.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +190,9 @@
       <workItem from="1593641505399" duration="544000" />
       <workItem from="1593661652166" duration="4180000" />
       <workItem from="1593699697016" duration="3449000" />
-      <workItem from="1593710311411" duration="7483000" />
+      <workItem from="1593710311411" duration="9488000" />
+      <workItem from="1593805211331" duration="563000" />
+      <workItem from="1593805783335" duration="104000" />
     </task>
     <servers />
   </component>
@@ -207,62 +212,78 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="548" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.960@0.23.1680.960" timestamp="1593706939786" />
-    <state width="788" height="255" key="GridCell.Tab.0.bottom" timestamp="1593741333855">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="519" y="130" key="#random" timestamp="1593805719414">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="519" y="130" key="#random/0.23.1680.956@0.23.1680.956" timestamp="1593805719414" />
+    <state x="519" y="130" key="#randommodule" timestamp="1593805735651">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="519" y="130" key="#randommodule/0.23.1680.956@0.23.1680.956" timestamp="1593805735651" />
+    <state width="1426" height="219" key="GridCell.Tab.0.bottom" timestamp="1593805997707">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="788" height="255" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593741333855" />
     <state width="908" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1593722599601" />
-    <state width="1426" height="255" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1593451870033" />
+    <state width="1426" height="219" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1593805997707" />
     <state width="1426" height="315" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1593699682699" />
     <state width="1426" height="255" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1593707212520" />
     <state width="1426" height="255" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1593705921700" />
     <state width="1426" height="255" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1593740979119" />
+    <state width="1426" height="219" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1593789136005" />
     <state width="1426" height="255" key="GridCell.Tab.0.bottom/0.23.1920.1098/-1680.23.1680.1027@0.23.1920.1098" timestamp="1593666949074" />
     <state width="1426" height="255" key="GridCell.Tab.0.bottom/0.23.1920.1100/-1680.23.1680.1027@0.23.1920.1100" timestamp="1593664785697" />
     <state width="1426" height="255" key="GridCell.Tab.0.bottom/0.23.1920.1104/-1680.23.1680.1027@0.23.1920.1104" timestamp="1593717292582" />
     <state width="1426" height="255" key="GridCell.Tab.0.bottom/0.23.1920.1106/-1680.23.1680.1027@0.23.1920.1106" timestamp="1593712895165" />
-    <state width="788" height="255" key="GridCell.Tab.0.center" timestamp="1593741333854">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1426" height="219" key="GridCell.Tab.0.bottom/0.23.1920.1111/-1680.23.1680.1027@0.23.1920.1111" timestamp="1593800622686" />
+    <state width="1426" height="219" key="GridCell.Tab.0.center" timestamp="1593805997706">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="788" height="255" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593741333854" />
     <state width="908" height="255" key="GridCell.Tab.0.center/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1593722599600" />
-    <state width="1426" height="255" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1593451870032" />
+    <state width="1426" height="219" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1593805997706" />
     <state width="1426" height="315" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1593699682698" />
     <state width="1426" height="255" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1593707212519" />
     <state width="1426" height="255" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1593705921700" />
     <state width="1426" height="255" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1593740979118" />
+    <state width="1426" height="219" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1593789136004" />
     <state width="1426" height="255" key="GridCell.Tab.0.center/0.23.1920.1098/-1680.23.1680.1027@0.23.1920.1098" timestamp="1593666949073" />
     <state width="1426" height="255" key="GridCell.Tab.0.center/0.23.1920.1100/-1680.23.1680.1027@0.23.1920.1100" timestamp="1593664785696" />
     <state width="1426" height="255" key="GridCell.Tab.0.center/0.23.1920.1104/-1680.23.1680.1027@0.23.1920.1104" timestamp="1593717292581" />
     <state width="1426" height="255" key="GridCell.Tab.0.center/0.23.1920.1106/-1680.23.1680.1027@0.23.1920.1106" timestamp="1593712895164" />
-    <state width="788" height="255" key="GridCell.Tab.0.left" timestamp="1593741333853">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1426" height="219" key="GridCell.Tab.0.center/0.23.1920.1111/-1680.23.1680.1027@0.23.1920.1111" timestamp="1593800622685" />
+    <state width="1426" height="219" key="GridCell.Tab.0.left" timestamp="1593805997705">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="788" height="255" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593741333853" />
     <state width="908" height="255" key="GridCell.Tab.0.left/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1593722599599" />
-    <state width="1426" height="255" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1593451870031" />
+    <state width="1426" height="219" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1593805997705" />
     <state width="1426" height="315" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1593699682698" />
     <state width="1426" height="255" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1593707212519" />
     <state width="1426" height="255" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1593705921700" />
     <state width="1426" height="255" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1593740979117" />
+    <state width="1426" height="219" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1593789136003" />
     <state width="1426" height="255" key="GridCell.Tab.0.left/0.23.1920.1098/-1680.23.1680.1027@0.23.1920.1098" timestamp="1593666949073" />
     <state width="1426" height="255" key="GridCell.Tab.0.left/0.23.1920.1100/-1680.23.1680.1027@0.23.1920.1100" timestamp="1593664785696" />
     <state width="1426" height="255" key="GridCell.Tab.0.left/0.23.1920.1104/-1680.23.1680.1027@0.23.1920.1104" timestamp="1593717292580" />
     <state width="1426" height="255" key="GridCell.Tab.0.left/0.23.1920.1106/-1680.23.1680.1027@0.23.1920.1106" timestamp="1593712895164" />
-    <state width="788" height="255" key="GridCell.Tab.0.right" timestamp="1593741333855">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1426" height="219" key="GridCell.Tab.0.left/0.23.1920.1111/-1680.23.1680.1027@0.23.1920.1111" timestamp="1593800622685" />
+    <state width="1426" height="219" key="GridCell.Tab.0.right" timestamp="1593805997706">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="788" height="255" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593741333855" />
     <state width="908" height="255" key="GridCell.Tab.0.right/0.0.1920.1200/-1680.0.1680.1050@0.0.1920.1200" timestamp="1593722599601" />
-    <state width="1426" height="255" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1593451870033" />
+    <state width="1426" height="219" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1593805997706" />
     <state width="1426" height="315" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1593699682698" />
     <state width="1426" height="255" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1593707212519" />
     <state width="1426" height="255" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1593705921700" />
     <state width="1426" height="255" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1593740979118" />
+    <state width="1426" height="219" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1593789136004" />
     <state width="1426" height="255" key="GridCell.Tab.0.right/0.23.1920.1098/-1680.23.1680.1027@0.23.1920.1098" timestamp="1593666949074" />
     <state width="1426" height="255" key="GridCell.Tab.0.right/0.23.1920.1100/-1680.23.1680.1027@0.23.1920.1100" timestamp="1593664785697" />
     <state width="1426" height="255" key="GridCell.Tab.0.right/0.23.1920.1104/-1680.23.1680.1027@0.23.1920.1104" timestamp="1593717292581" />
     <state width="1426" height="255" key="GridCell.Tab.0.right/0.23.1920.1106/-1680.23.1680.1027@0.23.1920.1106" timestamp="1593712895164" />
+    <state width="1426" height="219" key="GridCell.Tab.0.right/0.23.1920.1111/-1680.23.1680.1027@0.23.1920.1111" timestamp="1593800622685" />
     <state width="1426" height="313" key="GridCell.Tab.1.bottom" timestamp="1593717178813">
       <screen x="0" y="23" width="1920" height="1104" />
     </state>
@@ -287,10 +308,10 @@
     <state width="1426" height="315" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1593699682699" />
     <state width="1426" height="315" key="GridCell.Tab.1.right/0.23.1920.1100/-1680.23.1680.1027@0.23.1920.1100" timestamp="1593664414440" />
     <state width="1426" height="313" key="GridCell.Tab.1.right/0.23.1920.1104/-1680.23.1680.1027@0.23.1920.1104" timestamp="1593717178813" />
-    <state x="559" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1593710316720">
-      <screen x="0" y="23" width="1920" height="1104" />
+    <state x="489" y="331" key="com.intellij.ide.util.TipDialog" timestamp="1593805211413">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state x="489" y="331" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1593451809015" />
+    <state x="489" y="331" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1593805211413" />
     <state x="489" y="331" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1593699697565" />
     <state x="489" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1593475159986" />
     <state x="559" y="376" key="com.intellij.ide.util.TipDialog/0.23.1920.1098/-1680.23.1680.1027@0.23.1920.1098" timestamp="1593641506131" />
@@ -302,6 +323,8 @@
     <state x="475" y="231" width="670" height="676" key="search.everywhere.popup/0.23.1920.1104/-1680.23.1680.1027@0.23.1920.1104" timestamp="1593710377262" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonPlaylist$random.coverage" NAME="randommodule Coverage Results" MODIFIED="1593805745008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SimplePython" />
+    <SUITE FILE_PATH="coverage/PythonPlaylist$randomModule.coverage" NAME="randomModule Coverage Results" MODIFIED="1593805808874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SimplePython" />
     <SUITE FILE_PATH="coverage/PythonPlaylist$TuplesandSets.coverage" NAME="TuplesandSets Coverage Results" MODIFIED="1593451870020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonPlaylist$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1593718583822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAlgorithms" />
     <SUITE FILE_PATH="coverage/PythonPlaylist$Decorators.coverage" NAME="Decorators Coverage Results" MODIFIED="1593722599594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SimplePython" />
@@ -317,5 +340,6 @@
     <SUITE FILE_PATH="coverage/PythonPlaylist$Flipper.coverage" NAME="Flipper Coverage Results" MODIFIED="1593715110302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAlgorithms" />
     <SUITE FILE_PATH="coverage/PythonPlaylist$Pretty_Average_Primes.coverage" NAME="Pretty Average Primes Coverage Results" MODIFIED="1593706170777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practicePython" />
     <SUITE FILE_PATH="coverage/PythonPlaylist$MaximumPairwise.coverage" NAME="MaximumPairwise Coverage Results" MODIFIED="1593666949065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPlaylist$GCD.coverage" NAME="GCD Coverage Results" MODIFIED="1593789135998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonAlgorithms" />
   </component>
 </project>
